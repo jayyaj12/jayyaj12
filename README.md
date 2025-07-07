@@ -1,14 +1,41 @@
 ## 😊 Jay
 
-Junior Android developer.
+안녕하세요! 저는 **Android 개발 4년차 주니어 개발자** 황중현입니다.  
+꾸준한 학습과 기록을 통해 성장하며, 더 좋은 코드와 더 나은 앱을 만드는 것을 목표로 합니다.  
+**#열정적 #성장하는개발자 #TIL습관화**
 
-### 🧑🏻‍💻 Tech
+---
 
+### 🧑🏻‍💻 Tech Stack
 
+| Language | DB | Tool |
+|-----------|-----|-------|
+| ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) | ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white) |
 
-|Language|Db|Tool|
-|---|---------|---|
-|![a](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=black) ![b](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)<br>![c](https://img.shields.io/badge/cSharp-512BD4?style=flat-square&logo=c%2B%2B&logoColor=white)|![a](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black) ![b](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5AwTCCUla7mzXAAAAAZiS0dEAP8A/wD/oL2nkwAAAydJREFUGBkFwT2o73UdwPHX5////c+5j2rlQ9xUECUubS0mDS5BS4tLCAUhQQ8OjTVHY0NQLdVqi1ONDVFERELQEASVkCQklJp58z6dc/7fd6/XvP6lh7fd0Ys1T1bnTTOxVraNbWMVpUgqRSW1juvwoQevv/nYJz7+6rZb8yJ+imYMgKGAQTAIgBnWMVcuX+r05DDvvf5325gbTehcszEMY1kFZgYoYIYZx+PRlcunHrx29eK4Oik3NqMJZks752cS+w07ld0QGIZZyzq/59Lh4IGrVx1XW2uJtmGaQcbYHntKLcf/vWOd3bfW2G0ZgygdTl1+5AnXr1613ntLLaGancZAsd889LmXPf6dX7j+/BesO7e0O2DAbCfWnVuuP/9FN779S6ef+Yo1e61UKrsZxOx2Bv/6wdd98Puf2R561Lp34Xj3Nsbsdrp/2/48Vx953P0//NwHP/maSlilskvMmDDMYcx+09k9p0885dLNT1vnZ1ycOXnmWQ8+c9Mcz9jttR1UKpUVuxlGGGMIs9P5fScffdqjX/2+42I6evil79kee9o6u6vZaS1JpVLZMcwwwAxadpevufOnX5nd5vCxm64+ftP+9LL7f/61uXSNdbRKZUWlss2MChkAme1gvb/c/etrHvjkZ+0u7rp444/W+3e0OxAVpVJUdjCYGYYxGFrmEnd/84rLn3rByXOfd++3r+iAFlIpKpXKNtEMBWbGoLWcXDtx/rfXHO/dse05+8vvOD3VOhKFUqlUtmZMMYQujlpH+/3efnByxTs//LIZTk+vWPdvC9bROl+mVFYhuxnMEDPjkW/82NXnXrBuvavZs99bt//r4tZ7lj2zd7z1tsvPvuChl3+kqCWsmDdfuvFN9V21GrvtwzcMLm69q/N7AqzF4ZDDPmt/Yq59RHHxn39qrbWyS9/ahhrC4Pj2PxR2m4YKJBcX7Hdjnd3Tv9+wVmwnFiqpbabRMC7GbG2npiTWApVixVoLo+2UlVqqi3RSzca8NRPNoZpEKUKlUI5xXNkNlcoq1aFSvbXRqwx6Ms5lQlKESiBrMftUKqrqUL15PPbq/wHeTVHMad8CrgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0xMi0xOVQwODozNzoyMSswMDowMIL9PAQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMTItMTlUMDg6Mzc6MjErMDA6MDDzoIS4AAAAAElFTkSuQmCC)|![a](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white) ![b](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)<br> ![c](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
+---
 
-### 📫  How to reach me
-[![jayyaj.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayyaj.dev@gmail.com)](mailto:jayyaj.dev@gmail.com) : jayyaj.dev@gmail.com 
+### 🌱 현재 집중 중
+- 정보처리기사 실기 준비
+- 자바의 신 / Effective Java 학습
+- Android Clean Architecture, Jetpack Compose 심화 학습
+- TIL 기록 습관화
+
+---
+
+### 📌 My TIL
+> [🔗 TIL Repository 바로가기](https://github.com/jayyaj12/TIL)
+
+저는 매일 작은 배움을 기록하고 있습니다.  
+**오늘의 성장 = 내일의 실력**
+
+---
+
+### 📫 How to reach me
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:arbert12@naver.com) : arbert12@naver.com
+
+---
+
+### 🏆 My Values
+💡 **지속적인 성장**  
+💡 **협업과 소통을 중시**  
+💡 **사용자 중심의 앱 개발**
