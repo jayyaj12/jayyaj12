@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=Welcome%20to%20Jay's%20GitHub!&fontSize=32&fontAlign=70&fontColor=ffffff" alt="welcome banner"/>
 </p>
 
-# 😊 Jay (황중현)
+# 😊 Jay
 
 안녕하세요! Android 개발 4년차 주니어 개발자 황중현입니다.  
 Clean Code, 유지보수성과 확장성을 고려한 설계, 사용자 중심의 앱 개발을 지향하며  
