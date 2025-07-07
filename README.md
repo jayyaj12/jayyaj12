@@ -33,7 +33,7 @@ Clean Code, 유지보수성과 확장성을 고려한 설계, 사용자 중심�
 - **OceanKeeper (해양 플로깅 네트워크)**: FCM 알림 + 소셜 로그인 + 사용자 캠페인 기능  
 
 👉 [TIL Repository](https://github.com/jayyaj12/TIL)  
-👉 [Velog Blog](https://velog.io/@arbert14/posts)
+👉 [Velog Blog](https://velog.io/@jayyaj12)
 
 ---
 
