@@ -19,8 +19,7 @@ Clean Code, 유지보수성과 확장성을 고려한 설계, 사용자 중심�
 ---
 
 ## 🌱 현재 집중 중
-- 정보처리기사 실기 준비
-- 자바의 신 학습
+- Kotlin IN ACTION 읽기
 - Jetpack Compose 학습
 - TIL 기록
 
