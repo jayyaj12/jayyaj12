@@ -1,53 +1,41 @@
-<!-- 상단 환영 배경 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=Welcome%20to%20Jay's%20GitHub!&fontSize=32&fontAlign=70&fontColor=ffffff" alt="welcome banner"/>
-</p>
+# Hi there, I'm Jay! 👋
 
-# 😊 Jay
+### 📱 Android Developer
 
-안녕하세요! Android 개발 4년차 주니어 개발자 황중현입니다.  
-Clean Code, 유지보수성과 확장성을 고려한 설계, 사용자 중심의 앱 개발을 지향하며  
-팀과 소통하고 스스로 성장하기 위해 기록과 학습을 일상화하려 노력하고 있습니다.
+> *"Building reliable apps, Crafting seamless experiences."*
 
----
+I am an Android Developer who loves solving problems and building services that provide real value to users.
+While I have deep expertise in **IoT connectivity (BLE, NFC)** and **System Architecture**, my ultimate goal is to use these technologies to create stable and delightful user experiences.
 
-## 🛠 Tech Stack
-| Language | Architecture | Network | Infra/Tool | Device |
-|-----------|--------------|---------|-------------|---------|
-| Kotlin, Java | MVVM, Clean Architecture, Repository Pattern | Retrofit2, OkHttp3, Coroutine, FCM | Firebase, Git, Jira, Slack, Android Studio | BLE, NFC, Serial, Socket |
+I value **clean code** not just for the machine, but for the **team's productivity**.
 
 ---
 
-## 🌱 현재 집중 중
-- Kotlin IN ACTION 읽기
-- Jetpack Compose 학습
-- TIL 기록
+### 🚀 What I Value
+- 🤝 **Collaboration**: Believing that great software is built by great teams.
+- 💡 **Problem Solving**: Enjoying the challenge of bridging hardware limitations with software solutions.
+- 🎨 **User Centric**: Focusing on performance and stability to ensure a smooth user journey.
 
 ---
 
-## 📌 주요 프로젝트 경험
-- **LCD 정보표시기**: RS232/RS485, UDP 통신 최적화 → UI 반영 속도 76% 향상  
-- **AHA Stepping B2B/B2C**: BLE + NFC + REST API 기반 스마트 운동 기기 앱  
-- **Floney (공유 가계부)**: Clean Architecture + 소셜 로그인 + Firebase Storage  
-- **OceanKeeper (해양 플로깅 네트워크)**: FCM 알림 + 소셜 로그인 + 사용자 캠페인 기능  
+### 🛠 Tech Stack
 
-👉 [TIL Repository](https://github.com/jayyaj12/TIL)  
-👉 [Velog Blog](https://velog.io/@jayyaj12)
+**Android Development**
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android) ![Coroutines](https://img.shields.io/badge/Coroutines-Flow-gray?style=flat-square) ![Hilt](https://img.shields.io/badge/Dagger%20Hilt-gray?style=flat-square)
 
----
-
-## 🏆 My Values
-💡 **지속적인 성장과 학습**  
-🤝 **원활한 소통과 협업**  
-📱 **사용자 경험을 최우선으로 한 개발**  
-🛠 **확장성과 유지보수성을 고려한 Clean Code 작성**
+**Domain Expertise**
+`IoT Connectivity (BLE, NFC, Serial)` `Clean Architecture` `MVVM`
 
 ---
 
-## 📫 Contact
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:arbert12@naver.com) : arbert12@naver.com  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jayyaj12)
+### 💼 Highlights
+
+* **Hardware Integration**: Successfully developed stable communication features for IoT devices (BLE/NFC) in production.
+* **Performance**: Enhanced app performance and UI rendering speed by **76%** through network optimization.
+* **Maintainability**: Refactored legacy codebases to improve readability and scalability for the team.
 
 ---
 
-<!-- (선택) 깃허브 통계나 방문자 배지 추가 가능 -->
+### 📫 Contact
+
+* **Email**: arbert12@naver.com
