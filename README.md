@@ -1,4 +1,4 @@
-# Hi there, I'm Jay! 👋
+# Hi there, I'm JungHyun Hwang! 👋
 
 ### 📱 Android Developer
 
